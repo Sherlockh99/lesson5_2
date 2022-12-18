@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallBrowser</string>
+    <string name="defaultUrl">https://itvdn.com/ua</string>
+    <string name="go">go</string>
+</resources>
